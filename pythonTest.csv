@@ -1,0 +1,10 @@
+price_($),Full_String,URL
+78.00,this one should due to costing 78 usd in total,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+321.44.00,this one should too because of the id name 321.44 dollars,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+33.33.00,same with this one 33.33 dollars,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+4.20.00,"$4.20 CAD this one, however, should",https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+66.66.00,$66.66 USD this one should,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+555555.00,price: $555555 this one should,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+321321.00,$321321 this one should be,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+555.00,Yes this other span because 555 cad is the cost,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
+78.00,this one should due to costing 78 usd in total,https://www.bbakerdevelops.tech/main/misc/pythonScraperTest.html
